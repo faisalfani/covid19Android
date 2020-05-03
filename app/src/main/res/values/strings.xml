@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Covid</string>
+    <string name="title">Covid-19</string>
+    <string name="example_country">USA</string>
+    <string name="feeling">Are you feeling sick?</string>
+    <string name="feeling_description">If you feel sick with any of covid-19 symptoms please call or SMS us immediately for help.</string>
+    <string name="call_now">Call Now</string>
+    <string name="send_sms">Send SMS</string>
+    <string name="preventing">Prevention</string>
+    <string name="Avoid_close_contact">Avoid close contact</string>
+    <string name="Clean_your_hands">Clean your hands often</string>
+    <string name="Wear_facemask">Wear a facemask</string>
+    <string name="own_test">Do your own test!</string>
+    <string name="desc_own_test">Follow the instructions to do your own test.</string>
+    <string name="statistic">Statistic</string>
+    <string name="my_country">My Country</string>
+    <string name="global">Global</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="affected">Affected</string>
+    <string name="death">Death</string>
+    <string name="recoverd">Recovered</string>
+    <string name="active">Active</string>
+    <string name="serious">Serious</string>
+</resources>

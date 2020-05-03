@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/home_nav"
+        android:title="Home"
+        android:icon="@drawable/ic_round_home"
+        app:cnb_iconColor="@color/colorPurple"
+        />
+    <item
+        android:id="@+id/stat_nav"
+        android:title="Statistic"
+        android:icon="@drawable/ic_gridicons_stats"
+        app:cnb_iconColor="@color/colorPurple"
+        />
+
+    <item
+        android:id="@+id/news_nav"
+        android:title="News"
+        android:icon="@drawable/ic_ion_newspaper"
+        />
+    <item
+        android:id="@+id/info_nav"
+        android:title="Info"
+        android:icon="@drawable/ic_info"
+        />
+</menu>
